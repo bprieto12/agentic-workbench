@@ -1,0 +1,9 @@
+# apis/, docs/, infrastructure/, and qa-tools/ should only ever contain
+# git submodules (see .gitmodules). Ignore everything else under them so
+# that untracked files/dirs from individual repos - or a new repo dropped
+# in without being registered as a submodule - never get swept into the
+# metarepo by an `add .` run from the root.
+apis/*
+docs/*
+infrastructure/*
+qa-tools/*

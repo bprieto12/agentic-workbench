@@ -1,0 +1,9 @@
+[submodule "apis/python-rest-api-template"]
+	path = apis/python-rest-api-template
+	url = git@github.com:bprieto12/python-rest-api-template.git
+[submodule "apis/apollo-federation-playground"]
+	path = apis/apollo-federation-playground
+	url = git@github.com:bprieto12/apollo-federation-playground.git
+[submodule "docs/software-engineering-blog"]
+	path = docs/software-engineering-blog
+	url = git@github.com:bprieto12/software-engineering-blog.git
