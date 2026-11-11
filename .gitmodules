@@ -4,6 +4,12 @@
 [submodule "apis/apollo-federation-playground"]
 	path = apis/apollo-federation-playground
 	url = git@github.com:bprieto12/apollo-federation-playground.git
+[submodule "apis/go-rest-api-template"]
+	path = apis/go-rest-api-template
+	url = git@github.com:bprieto12/go-rest-api-template.git
 [submodule "docs/software-engineering-blog"]
 	path = docs/software-engineering-blog
 	url = git@github.com:bprieto12/software-engineering-blog.git
+[submodule "infrastructure/homelab"]
+	path = infrastructure/homelab
+	url = git@github.com:bprieto12/homelab.git
