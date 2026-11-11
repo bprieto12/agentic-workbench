@@ -13,3 +13,6 @@
 [submodule "infrastructure/homelab"]
 	path = infrastructure/homelab
 	url = git@github.com:bprieto12/homelab.git
+[submodule "apis/go-rest-api-homelab"]
+	path = apis/go-rest-api-homelab
+	url = git@github.com:bprieto12/go-rest-api-homelab.git

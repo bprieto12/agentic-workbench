@@ -9,11 +9,14 @@ applied consistently across all of them.
 ## Structure
 
 - `apis/` — API service repos
+  - [go-rest-api-template](https://github.com/bprieto12/go-rest-api-template) (deploys to AWS ECS)
+  - [go-rest-api-homelab](https://github.com/bprieto12/go-rest-api-homelab) (deploys to the homelab k3s cluster via Flux)
   - [python-rest-api-template](https://github.com/bprieto12/python-rest-api-template)
   - [apollo-federation-playground](https://github.com/bprieto12/apollo-federation-playground)
 - `docs/` — documentation repos
   - [software-engineering-blog](https://github.com/bprieto12/software-engineering-blog)
-- `infrastructure/` — infra repos (none linked yet)
+- `infrastructure/` — infra repos
+  - [homelab](https://github.com/bprieto12/homelab)
 - `qa-tools/` — QA tooling repos (none linked yet)
 
 Shared Claude skills will live alongside this structure and are not yet
